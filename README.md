@@ -298,4 +298,4 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 </p>
 <br />
 <br />
-<h3 align="center"> Congrats, You've Finished Installing osTicket.</h3>
+<h3 align="center"> Congradulations, You've Finished Installing osTicket on your Windows VM!</h3>
